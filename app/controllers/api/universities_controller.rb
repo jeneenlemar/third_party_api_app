@@ -7,4 +7,4 @@ class Api::UniversitiesController < ApplicationController
   end
 
 end
-#source http://universities.hipolabs.com/search?name=middle
+#source http://universities.hipolabs.com/search?name=middle and more....
